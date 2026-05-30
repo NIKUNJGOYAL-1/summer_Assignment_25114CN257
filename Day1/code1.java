@@ -1,7 +1,7 @@
-package Day1;
+p ackage Day1;
 
 import java.util.Scanner;
-public class code1 {
+public class code1{
 public static void main(String[] args) {
     Scanner sc= new Scanner(System.in);
     int n=sc.nextInt();
